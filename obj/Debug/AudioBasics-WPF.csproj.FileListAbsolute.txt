@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\bin\Debug\AudioBasics-WPF.exe
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\bin\Debug\AudioBasics-WPF.pdb
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\AudioBasics-WPF_MarkupCompile.cache
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\AudioBasics-WPF.g.resources
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.AudioBasics.Properties.Resources.resources
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\AudioBasics-WPF.exe
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\obj\Debug\AudioBasics-WPF.pdb
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\bin\Debug\framework2.dll
+C:\Users\Vinicius\Documents\kinect\C#\AudioBasics-WPF\bin\Debug\framework2.pdb
